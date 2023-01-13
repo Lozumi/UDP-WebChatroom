@@ -1,3 +1,12 @@
+/*
+ * Copyright (c) 2018-2022 The UDP-WebChatroom project authors. All Rights Reserved.
+ *
+ * This file is part of UDP-WebChatroom(https://github.com/Lozumi/UDP-WebChatroom).
+ *
+ * Use of this source code is governed by MIT license that can be found in the
+ * LICENSE file in the root of the source tree. All contributing project authors
+ * may be found in the AUTHORS file in the root of the source tree.
+ */
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
