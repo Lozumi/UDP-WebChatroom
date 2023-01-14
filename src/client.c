@@ -1,7 +1,10 @@
 /*
- * Copyright (c) 2018-2022 The UDP-WebChatroom project authors. All Rights Reserved.
+ * Copyright (c) 2018-2022 Lozumi Everkine. All Rights Reserved.
  *
  * This file is part of UDP-WebChatroom(https://github.com/Lozumi/UDP-WebChatroom).
+ * NAME:client.c
+ * DISP:The client program of the chatroom.
+ * Version:1.0
  *
  * Use of this source code is governed by MIT license that can be found in the
  * LICENSE file in the root of the source tree. All contributing project authors
